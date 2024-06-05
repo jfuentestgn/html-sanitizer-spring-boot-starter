@@ -4,11 +4,7 @@ HTML Sanititizer Starter for Spring Boot Applications
 
 This starter makes it really easy to sanitize user input in Spring Boot Web Applications using the [OWASP Java HTML Sanitizer](https://owasp.org/www-project-java-html-sanitizer/). Simply add a @Sanitize annotation to DTO classes
 
-![WIP - Work in progress](https://img.shields.io/badge/WIP-Work_in_progress-8A2BE2)
-
 ## Installation
-
-![WARN - Not yet published](https://img.shields.io/badge/WARN-Not_yet_published-red)
 
 Install `html-sanitizer-spring-boot-starter` with maven:
 ```
@@ -168,7 +164,7 @@ public TestController {
 ```
 ## Demo
 
-You can see the starter in action in the [Demo Application]()
+You can see the starter in action in the [Demo Application](https://github.com/jfuentestgn/html-sanitizer-demo)
 
 ## Authors
 
